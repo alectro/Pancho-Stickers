@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "duration-type" : "fps",
+    "repetitions" : 0,
+    "accessibility-label" : "Sleepy dog",
+    "duration" : 2
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "z 2.png"
+    },
+    {
+      "filename" : "frame.png"
+    },
+    {
+      "filename" : "frame.png"
+    },
+    {
+      "filename" : "frame.png"
+    },
+    {
+      "filename" : "frame.png"
+    }
+  ]
+}

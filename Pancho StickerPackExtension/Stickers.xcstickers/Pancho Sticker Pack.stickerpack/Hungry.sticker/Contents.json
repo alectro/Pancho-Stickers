@@ -1,0 +1,10 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "accessibility-label" : "Hungry dog demanding food",
+    "filename" : "sticker-8.png"
+  }
+}

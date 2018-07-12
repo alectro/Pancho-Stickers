@@ -1,0 +1,10 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "accessibility-label" : "Dog wondering what is going on",
+    "filename" : "sticker-3.png"
+  }
+}

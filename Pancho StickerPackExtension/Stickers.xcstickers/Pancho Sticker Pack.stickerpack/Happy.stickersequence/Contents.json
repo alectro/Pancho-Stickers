@@ -1,0 +1,20 @@
+{
+  "properties" : {
+    "duration-type" : "fps",
+    "repetitions" : 0,
+    "accessibility-label" : "Happy dog",
+    "duration" : 9
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "happy 1.png"
+    },
+    {
+      "filename" : "happy 2.png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "accessibility-label" : "Dog peeing",
+    "filename" : "sticker-1.png"
+  }
+}

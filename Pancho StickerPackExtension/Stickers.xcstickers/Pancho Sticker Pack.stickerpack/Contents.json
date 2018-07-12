@@ -1,0 +1,44 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Happy.stickersequence"
+    },
+    {
+      "filename" : "WTF.stickersequence"
+    },
+    {
+      "filename" : "What?.sticker"
+    },
+    {
+      "filename" : "Shocked.stickersequence"
+    },
+    {
+      "filename" : "Crazy.sticker"
+    },
+    {
+      "filename" : "Sleepy.stickersequence"
+    },
+    {
+      "filename" : "Peeing.sticker"
+    },
+    {
+      "filename" : "Indiference.sticker"
+    },
+    {
+      "filename" : "Crying.sticker"
+    },
+    {
+      "filename" : "Hungry.sticker"
+    },
+    {
+      "filename" : "Laughing.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "large"
+  }
+}
